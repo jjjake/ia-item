@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="hep-th9307100.pdf" source="original">
+    <format>Text PDF</format>
+    <mtime>1379598509</mtime>
+    <size>114622</size>
+    <md5>281dbdace801b634ec55fc1994b6da95</md5>
+    <crc32>35462077</crc32>
+    <sha1>7ca90f8a7cc589f9cd6056640b3d8384966a8467</sha1>
+  </file>
+  <file name="arxiv-hep-th9307100_meta.sqlite" source="original">
+    <format>Metadata</format>
+    <mtime>1379598531</mtime>
+    <size>8192</size>
+    <md5>d5851d4fd19c4ab9fd8a874734b16e23</md5>
+    <crc32>f68bd654</crc32>
+    <sha1>0f9a066a76ce9ad518dfdf36f163cda62a13cf42</sha1>
+  </file>
+  <file name="hep-th9307100_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>hep-th9307100.pdf</original>
+    <mtime>1382196976</mtime>
+    <size>2875993</size>
+    <md5>dfd473a559cc7ff859182924d2c1ded6</md5>
+    <crc32>39d4edab</crc32>
+    <sha1>4311bd798ac34661cc0d5cd06520e08d4c260d1d</sha1>
+  </file>
+  <file name="hep-th9307100.djvu" source="derivative">
+    <format>DjVu</format>
+    <original>hep-th9307100_djvu.xml</original>
+    <mtime>1382197367</mtime>
+    <size>94765</size>
+    <md5>b9f9ede017a617500d22908a49433bb0</md5>
+    <crc32>bb1236b3</crc32>
+    <sha1>c15c48535bcc3cc467172d1adf0fb05302922ac9</sha1>
+  </file>
+  <file name="hep-th9307100.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>hep-th9307100_jp2.zip</original>
+    <mtime>1382196984</mtime>
+    <size>25018</size>
+    <md5>a066fe80da752306eea4fee430bf980c</md5>
+    <crc32>026a874e</crc32>
+    <sha1>e0cb767fb35f0d35e623e7af9a909ed0e22387c4</sha1>
+  </file>
+  <file name="hep-th9307100_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>hep-th9307100_djvu.xml</original>
+    <mtime>1382197368</mtime>
+    <size>2019</size>
+    <md5>6df4c0a5aebfe1800fbee7e5aadba340</md5>
+    <crc32>ba7cc4d5</crc32>
+    <sha1>1eb794a8e3f787cfeccfcabd217813cf80a98649</sha1>
+  </file>
+  <file name="hep-th9307100_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>hep-th9307100.djvu</original>
+    <mtime>1382197374</mtime>
+    <size>14010</size>
+    <md5>e161c2aa34793144985dffe869e69181</md5>
+    <crc32>d22cc472</crc32>
+    <sha1>c856a44178a66d642ca3359b9785f55e0dc01d00</sha1>
+  </file>
+  <file name="hep-th9307100_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>hep-th9307100_abbyy.gz</original>
+    <mtime>1382197352</mtime>
+    <size>128094</size>
+    <md5>930caf5f81117e11541ca46c163e3eda</md5>
+    <crc32>0a561974</crc32>
+    <sha1>385c4de5846c08c212bb1055a4bc185cae369217</sha1>
+  </file>
+  <file name="arxiv-hep-th9307100_meta.xml" source="original">
+    <format>Metadata</format>
+    <mtime>1382197380</mtime>
+    <size>978</size>
+    <md5>5c849586971c179b506d1febb60fc91b</md5>
+    <crc32>8b7640f0</crc32>
+    <sha1>80334f41cd740e2dd71fcce473aeb6762cbb625b</sha1>
+  </file>
+  <file name="hep-th9307100_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>hep-th9307100_jp2.zip</original>
+    <mtime>1382197344</mtime>
+    <size>188862</size>
+    <md5>ca7035760cb5392ec7c7a3fc388f0945</md5>
+    <crc32>26c3cbea</crc32>
+    <sha1>978a014cff912e86f81a8a1332f1c0da3dc5a3d0</sha1>
+  </file>
+  <file name="hep-th9307100.epub" source="derivative">
+    <format>EPUB</format>
+    <original>hep-th9307100_abbyy.gz</original>
+    <mtime>1382197369</mtime>
+    <size>8393</size>
+    <md5>a41cb8865942ce757a3a14f5adf6317a</md5>
+    <crc32>f8388871</crc32>
+    <sha1>d9f255ec6b5087741b5604d088dd192240e21094</sha1>
+  </file>
+  <file name="arxiv-hep-th9307100_archive.torrent" source="metadata">
+    <btih>5364bd2267b7d5d2317faea839a3fc79355b76bd</btih>
+    <mtime>1382197380</mtime>
+    <size>3231</size>
+    <md5>7e8bcae0db6716ed98c13f0e15a227ba</md5>
+    <crc32>5ce17c91</crc32>
+    <sha1>2e52e15f256786e8c27f3168458eaff6eade4283</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="arxiv-hep-th9307100_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>55e103dff22998943d79517ddfea9a8b</md5>
+  </file>
+</files>

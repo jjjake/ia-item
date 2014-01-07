@@ -1,0 +1,540 @@
+Orthodox Gravity 
+
+
+
+A.Y. Shiekh 
+
+International Centre for Theoretical Physics, Miramare, Trieste, Italy 
+
+14th July 1993 
+
+
+
+Abstract 
+
+A scalar field theory is investigated within the context of orthodox quantum gravity. 
+PACS No. 03.70. +k, 04.60.+n, ll.lO.Gh 
+
+1 Introduction 
+
+With quantum theory and general relativity being such good descriptions of the world, it is 
+somewhat paradoxical that we have still not managed to wed the two theories [Isham, 1981]. 
+Before embarking upon variations one might question the need to quantize gravity at all, since 
+there is no direct experimental evidence demanding the quantization of the gravitational field 
+[Feynman, 1963]. However, if gravity remains classical, since its fields are then not subject 
+to the uncertainty principle of quantum theory, it might be employed to make an indirect 
+measurement of a quantum field that would be more precise than that permitted. This argument 
+for quantizing gravity is not watertight, as one might propose a gravitational coupling to the 
+quantum expectation value, or some other alteration to quantum theory itself [Kibble, 1981]. 
+However it does motivate one to begin by investigating the obstacles to naive quantization of 
+the gravitational field. 
+
+The usual scheme of field quantization is plagued by divergences, but in some special cases 
+those infinities can be consistently ploughed back into the theory to yield a finite end result with 
+a small number of arbitrary constants remaining; these then being obtained from experiment 
+[Ramond, 1990; Collins, 1984]. This is the renowned scheme of renormalization, disapproved of 
+by some, but reasonably well defined and yielding results in excellent agreement with nature. 
+The fact that only some theories are renormalizable has the beneficial effect of being selective, 
+and so predictive. Unfortunately, in the usual sense, general relativity is not renormalizable 
+[Vehman, 1976]. 
+
+
+
+1.1 Traditional Formulation 
+
+Orthodox quantum gravity is a perturbatively unrenormalizable theory in the traditional sense, 
+for starting from the example of a free scalar field in a gravitational field described by the 
+Lagrangian: 
+
+C = R+ Ig^'^d^ct^d^cP + \m^(i? 
+
+one discovers, upon quantizing both the matter and gravitational fields, that the counter 
+terms do not fall back within the original Lagrangian. Already at one loop one observes the 
+appearance of c/)'^ and counter terms (most easily seen by power counting); where is 
+shorthand for g^^ d^(j)djy(j), and not the independent variable of Hamiltonian mechanics. At two 
+loop one also has such divergences, along with the occurrence of additional counter terms of (f)^ 
+
+
+
+1 
+
+
+
+and form. This continues indefinitely, and since the total number of counter terms is then 
+infinite in number, their associated ambiguities destroy the predictive power of the theory. The 
+presence of higher derivative counter terms further destroys the causal behaviour of the theory. 
+
+In summary, rcnormalizability requires that tlic number of independent counter terms be 
+finite in number and that they do not spoil the physical behaviour of the original theory (modi- 
+fication is permitted). The fact that even after successful renormalization some factors, such as 
+mass and charge are left undetermined should perhaps not be viewed as a predictive shortcom- 
+ing, since the fundamental units of nature are relative; that is to say, the choice of reference unit 
+(be it mass, length, time or charge) is always arbitrary, and then everything else can be stated 
+in terms of these few units. 
+
+These observations motivate the consideration of the most general Lagrangian (in even pow- 
+ers of ^ and p) permitted on the grounds of symmetry: 
+
+C = A + + lp2 + 1^2^2 + p2^2^(^2) + <^4^(^2) 
+
++i?(^2^((^2^ + Ve(p', 0') + (ai?2 + ^R^.Bi''' + . . .) /(/, </>2) 
+
+V , " 
+
+higher derivative terms 
+
+where A, 7, e, and / are arbitrary analytic functions. 
+
+Strictly this is formal in having neglected gauge fixing and the resulting presence of ghost 
+particles. Symmetry now assures us that all counter terms must fall back within this Lagrangian, 
+and it is this that motivated the construction. However the theory in this form has no predictive 
+content, since there are an infinite number of arbitrary constants (in each arbitrary function: k, 
+A, 7, e, /), and in this sense the theory is not renormalized. However, there remain physical 
+criterion to pin down some of these arbitrary factors. 
+
+The cosmological constant is abandoned on the grounds of energy conservation [Shiekh, 1992], 
+and since in general the higher derivative terms lead to acausal behaviour, their renormalised 
+coefficient can also be put down to zero. This still leaves the three arbitrary functions k, A and 
+7, associated with the terms p^0^k(0^), (^"^X^^?) and R(j?^f{(f?). The last may be abandoned 
+on the grounds of defying the equivalence principle. To see this, begin by considering the first 
+term of the Taylor expansion, namely i?(/>^; this has the form of a mass term and so one would 
+be able to make a local measurement of mass to determine the curvature, and so contradict the 
+equivalence principle. The same line of reasoning applies to the remaining terms, Rcj)'^^ R(t>^, ••• 
+etc. 
+
+This leaves us the two remaining infinite families of ambiguities within the terms (j)'^ X{(f>'^) 
+and (f)^ ni^cjp') . In the limit of fiat space in 3-f-l dimensions this will reduce to a renormalized 
+theory in the traditional sense if A(0^) = constant, and ^{(f)'^) = 0. So one is lead to proposing 
+that the renormalised theory of quantum gravity for a scalar field should have the form: 
+
+Cren = Aq + Rq + \pI + ^"io'?^o + ^'o^^O«o(^^o) + <PtM4>l) 
+
++Ro^hQ{<i>l) + Rovleoipl, (t>l) + {oc^Rl + PoRo^^uR^" + ■ ■ ■) fo{pl 0g) 
+where the physical parameters: 
+
+A = k(</>2) ^ ^(^2) ^ g(^2^ ^2) ^ f^p2^ ^2) ^ 
+
+A(^^) = A = scalar particle self coupling constant 
+m = mass of the scalar particle 
+
+One might wonder about the renormalization group parameter. Although this would only be 
+one additional free parameter, there are hints that this might be fixed [Culumovic et al., 1990; 
+Leblanc et al., 1991], and one might there anticipate the appearance of the Plank mass. 
+
+
+
+2 
+
+
+
+We are left with a finite theory that has few arbitrary constants. Despite the patch work 
+fine of reasoning invoked to arrive at this hypothesis, one might alter perspective and simply 
+
+be interested in investigating the consequences of such a scheme for its own sake, where many 
+of the arbitrary factors arc set to zero, for whatever reason. At this stage any well behaved, 
+finite theory is worth investigating; and it is unfortunate that we don't have the guiding hand 
+of mother nature to assist us in the guessing game. 
+
+
+
+1.2 Viable Formulation 
+
+Having discussed this approach within the context of traditional renormalization; it is intriguing 
+to note that the use of analytic continuation [Bollini at al., 1964; Speer, 1968; Salam and 
+Strathdee, 1975; Hawking, 1975; Dowker and Critchley, 1976] and the more recent method of 
+operator regularization [McKeon and Sherry, 1987; McKeon et al., 1987; McKeon et al., 1988; 
+Mann, 1988; Mann et al., 1989; Culumovic et al., 1990; Shiekh, 1990], implements the above 
+scheme in a much cleaner way. 
+
+In operator regularization one removes divergences using the analytical continuation: 
+
+
+
+H- 
+
+
+
+lim — — 
+
+e^o de"- 
+
+
+
+where n is chosen sufficiently large that one is without infinities. This is explicitly illustrated 
+through an example later. 
+
+The method of operator regularization has the strength of explicitly maintaining invariances, 
+as well as being applicable to all loop levels; unlike the original Zeta function technique [Salam 
+and Strathdee, 1975; Dowker and Critchley, 1976; Hawking, 1975] that only applied to one loop. 
+
+To see this method in action, we will walk through a simple example of a divergent one loop 
+diagram of a massive scalar particle in quantum gravity. So begin with an investigation of a 
+massive scalar theory in its own induced gravitational field, described by the action: 
+
+
+
+/oo , 
+^d^x (R + y^'di.cpd^cP + irn202 + Xr/)' 
+-oo 
+
+
+
+The Fcynman rules (of which there are an infinite number) we explicitly list; the gauged 
+graviton propagator being derived from the gravitational, R, Lagrangian [M. Veltman, Les 
+Houches XXVni, 1976] (see FIG. 1): 
+
+
+
+The scalar propagator (see FIG. 2): 
+
+
+
+K21 
+
+
+
+p2 _j_ 
+
+
+
+First interaction vertex (see FIG. 3): 
+
+
+
+m 
+
+
+
+etc. 
+
+
+
+Although there are an infinite number of Feynman diagrams, only a finite number are used 
+to any finite loop order. 
+
+
+
+3 
+
+
+
+1.2.1 Divergent One loop diagram example: 
+
+Set about a one loop investigation with matter particles on the external legs (see FIG. 4). 
+
+
+
+= /- 
+
+
+
+expand out the indices to yield: 
+
+°° dH 
+
+
+
+/a 
+-c 
+
+
+
+(27r)^ ^2 + m'^{l+ p) 
+Then introduce the standard Feynman parameter 'trick': 
+
+
+
+1 r(ai + a2 + ... ttk) 
+
+Dl'DlK..Dl'' ~ V{a^)V{a2)...V{ak) 
+
+to yield: 
+
+dH '•I 
+
+
+
+/•••/ 
+
+Jo Jo 
+
+
+
+dxi . . . dxk ^ ^ 
+
+
+
+ai — 1 
+
+
+
+. . .X 
+
+
+
+{Dixi + ... DkXk) 
+
+
+
+ai+...Ofc 
+
+
+
+dx- 
+
+
+
+p^r + 2'm^p ■ I — 2m 
+
+
+
+/-oo (27r)^ Jo [P + m^x + p'^ {1 - x) + 21 ■ p {1 - x)]^ 
+Remove divergences using the analytic continuation: 
+
+jn / n 
+
+R-^ = lim — —H-^-"^ 
+
+n being chosen sufficiently large to cancel the infinities. For the case in hand n = 1 is 
+adequate. 
+
+
+
+H 
+
+
+
+-2 
+
+
+
+= lim-f£iJ-^-2) 
+
+
+
+This yields: 
+
+
+
+= I dx lim — ^ 
+Jo 
+
+
+
+p^V + 2m p ■ I — 2m 
+
+
+
+de J -00 {2TTy \ [P + m^x + p^ {1 - x) + 21 ■ p {1 - x] 
+Then performing the momentum integrations using [Ramond, 1990]: 
+
+
+
+ls+2 
+
+
+
+T{A-uj) 
+
+
+
+-00 (27r)2'*^ (Z2 + M2 + 2/ • p)^ (47r)-'r(A) (M^ - p2)A-a, 
+
+
+
+00 (27r)''" (/2 + M2 + 2/ • pf (47r)'^r(A)^'^ {M^ - p^)^-^ 
+
+
+
+d'^'^l 
+
+
+
+00 (27r)2^ (/2 + M^ + 2l- pf 
+yields the finite expression: 
+
+
+
+^21 
+
+
+
+, . dx lim 
+
+{AttY Jo ^-^0 de 
+
+Doing the e differential using: 
+
+
+
+1 
+
+
+
+(47r)'^r(A) 
+
+
+
+r{A - io) 
+
+
+
+T{A-Lo-l) 
+
+
+
+2 (M2-p2)A- 
+
+
+
+-w-1 
+
+
+
+m^p^(l-x)r{e) _ 
+' {rri^x+p'^x{l—x)Y 
+
+
+
+p^r(£-l) 
+
+
+
+[m'^x+p'^x(l—x)] 
+[m'^ x+p'^ x{l—x)] 
+
+
+
+4 
+
+
+
+yields: 
+
+- ^21 f {{^m^ + 2m V - P'^) + P^x (4 - Sx)) In (m^z + p'^x{l - x)) 
+
+~ {Aixf Jo ^\ -2p'^{m'^x+p^x{l-x)) 
+
+and finally performing the x integration gives rise to the final result: 
+
+= ^4 ((2, + 2^ + ^) ln(l + - 3 - |4 - i4 + 2 f 1 + 4) ln{^)] 
+
+where there is no actual divergence at p = 0, and it should be commented that the use of a 
+computer mathematics package can in general greatly reduced 'calculator' fatigue. The factor 
+\i appears on dimensional grounds. 
+
+2 Acknowledgements 
+
+I should like to thank John Strathdee and Seifallah Randjbar Daemi for listening to and com- 
+menting upon, if not necessarily agreeing with, my ideas. For lending a responsive ear; K. Stelle, 
+G. 't Hooft and D. McKeon. 
+
+3 References 
+
+The field is so well explored that rather than attempt any kind of complete referencing, a flavour 
+is given. 
+
+1) C.J. Isham, 
+
+'Quantum Gravity - An Overview', in "Quantum Gravity 2: A Second Oxford Symposium" pp. 1-62, eds. C.J. 
+Isham, R. Penrose and D.W. Sciama, (Oxford University Press, Oxford, 1981). 
+
+2) R.P. Feynman, 
+
+"Lectures on Gravitation" (Caltecli, 1962-1963, unpublished). 
+
+3) T.W.B. Kibble, 
+
+'Is a Semi- Classical Theory of Gravity Viable?', in "Quantum Gravity 2: A Second Oxford Symposium" pp. 
+63-80, eds. C.J. Isham, R. Penrose and D.W. Sciama, (Oxford University Press, Oxford, 1981). 
+
+4) P. Ramond, 
+
+"Field Theory: A Modem Primer", 2nd Ed (Addison- Wesley, 1990). 
+
+5) J. ColUns, 
+
+" Renormalization" , Cambridge University Press, London, 1984. 
+
+6) M. Veltman, 
+
+'Quantum Theory of Gravitation', Les Houches XXVIII, "Methods In Field Theory", pp. 265- 327, eds. R. Ballan 
+and J. Zinn- Justin, (North-Holland, Amsterdam, 1976). 
+
+7) A. Shickh, 
+
+'Does Nature place a Fundamental Limit on Strength?', Can.J.Phys., 70, 1992, 458- 
+
+
+
+5 
+
+
+
+8) M. Leblanc, R.B. Mann, D.G.C. McKeon and T.N. Sherry, 
+
+'The Finite Effective Action in the Non-Linear Sigma Model with Torsion to Two-Loop Order', Nucl.Phys. B349, 
+
+1991, 494- 
+
+9) L. Culumovic, D.G.C. McKeon and T.N. Sherry, 
+
+'Operator regularization and massive Yang-Mills theory', Can.J.Phys., 68, 1990, 1149- 
+
+10) C. BoUmi, J. Giambiagi and A. Dominguez, 
+
+'Analytic Regularization and the Divergences of Quantum Field Theories', Nuovo Cimcnto 31, 1964, 550- 
+
+11) E. Speer, 
+
+'Analytic Renormalization', J.Math.Phys. 9, 1968, 1404- 
+
+12) A. Salam and J. Strathdee, Nucl.Phys. B90, 
+
+'Transition Electromagnetic Fields in Particle Physics ', 1975, 203- 
+
+13) J. Dowker and R. Critchley, 
+
+'Effective Lagrangian and energy-momentum tensor in de sitter space', Phys.Rev., D13, 1976, 3224- 
+
+14) S. Hawking, 
+
+'Zeta Function Regularization of Path Integrals in Curved Space', Commun.Math.Phys., 55, 1977, 133- 
+
+15) D. McKcon and T. Sherry, 
+
+'Operator Regularization of Green's Functions', Phys.Rev. Lett., 59, 1987, 532- 
+
+16) D. McKeon and T. Sherry, 
+
+'Operator Regularization and one-loop Green's functions', Phys.Rev., D35, 1987, 3854- 
+
+17) D. McKcon, S. Rajpoot and T. Sherry, 
+
+'Operator Regularization with Superfields', Phys.Rev., D35, 1987, 3873- 
+
+18) D. McKeon, S. Samant and T. Sherry, 
+
+'Operator regularization beyond lowest order', Can.J.Phys., 66, 1988, 268- 
+
+19) R. Mann., 
+
+'Zeta function regularization of Quantum Gravity', In Proceedings of the CAP-NSERC Summer Workshop on 
+Field Theory and Critical Phenomena. Edited by G. Kunstatter, H. Lee, F. Khanna and H. Limezawa, World 
+Scientific Pub. Co. Ltd., Singapore, 1988, p. 17. 
+
+20) R. Mann, D. McKcon, T. Steele and T. Tarasov, 
+
+'Operator Regularization and Quantum Gravity', Nucl.Phys., B311, 1989, 630- 
+
+21) L. Culumovic, M. Leblanc, R. Mann, D. McKeon and T. Sherry, 
+
+'Operator regularization and multiloop Green's functions', Phys. Rev., D41, 1990, 514- 22) A. Shiekh, Can.J.Phys., 
+'Zeta-function regularization of quantum field theory', 68, 1990, 620- 
+
+
+
+6 
+
+
+
